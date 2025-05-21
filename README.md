@@ -1,9 +1,7 @@
 # 🚀 Project Name
 
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/your-repo?style=flat)
-![Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=flat)
-![License](https://img.shields.io/github/license/yourusername/your-repo?style=flat)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo?style=flat)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 > Powerful and scalable backend API built with modern technologies.
 
