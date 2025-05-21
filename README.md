@@ -39,7 +39,7 @@ This is a RESTful API designed to handle [brief project description], such as au
 ```
 ---
 
-## 📬 Main Endpoints
+## 📬 Main Endpoints and Features
 
 ```bash
 # 🔐 AuthController
