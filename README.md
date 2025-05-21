@@ -41,18 +41,15 @@ This is a RESTful API designed to handle [brief project description], such as au
 
 ## 📬 Main Endpoints and Features
 
-```bash
-# 🔐 AuthController
+### 🔐 AuthController
 
 | Method | Route         | Description             |
 |--------|---------------|-------------------------|
 | POST   | /api/login    | Authenticate user       |
 | POST   | /api/register | Register a new user     |
 | GET    | /api/profile  | Get logged-in user data |
-```
 
-```bash
-# 👤 UserController
+###  👤 UserController
 
 | Method | Route         | Description             |
 |--------|---------------|-------------------------|
@@ -60,10 +57,8 @@ This is a RESTful API designed to handle [brief project description], such as au
 | GET    | /api/users/:id| Get user by ID          |
 | PUT    | /api/users/:id| Update user             |
 | DELETE | /api/users/:id| Delete user             |
-```
 
-```bash
-# 📦 ProductController
+###  📦 ProductController
 
 | Method | Route             | Description             |
 |--------|-------------------|-------------------------|
@@ -71,7 +66,6 @@ This is a RESTful API designed to handle [brief project description], such as au
 | POST   | /api/products     | Create a new product    |
 | PUT    | /api/products/:id | Update a product        |
 | DELETE | /api/products/:id | Delete a product        |
-```
 
 ---
 
